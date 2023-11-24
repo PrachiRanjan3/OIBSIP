@@ -1,6 +1,6 @@
 **Iris Flower Classification**
 
-![Task 1](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/a88f251e-c306-4c96-a195-0545963027e3)
+https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Task%201.png?raw=true
 
 **Features : PetalLengthCm, PetalWidthCm, SepalLengthCm and SepalWidthCm**
 
