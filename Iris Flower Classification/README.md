@@ -6,62 +6,62 @@
 
 **Target : Species -> Iris-setosa, Iris-versicolor, Iris-virginica**
 
-![Demo](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/2531b661-7b79-4944-874c-b804e5033516)
+![Demo](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Demo.png?raw=true)
 
 **Analysis:-**
 
 **Iris dataset consists 50 rows of Iris-setosa, 50 rows of Iris-Versicolor and 50 rows of Iris-Virginica**
 
-![Pie Chart](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/0aa90633-6017-4461-9a7b-0c80dc4156ab)
+![Pie Chart](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Pie%20Chart.png?raw=true)
 
 **Density Distribution**
 
-![Density Distribution](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/a407cc3e-a8b3-4929-9f57-434eeddf269a)
+![Density Distribution](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Density%20Distribution.png?raw=true)
 
 **Histogram Distribution**
 
-![Histogram Distribution](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/38e1cfaa-3c8d-4360-a8e1-fe37ecdb07fe)
+![Histogram Distribution](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Histogram%20Distribution.png?raw=true)
 
 **Boxplot for checking Outliers**
 
-![Boxplot for outliers](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/c2528edf-db3b-44cf-b91e-e2108b99625d)
+![Boxplot for outliers](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Boxplot%20for%20outliers.png?raw=true)
 
 **Boxen Plot**
 
-![Boxen Plot](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/27f6f2fb-cbfc-4aaf-989f-099ba3439df8)
+![Boxen Plot](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Boxen%20Plot.png?raw=true)
 
 **Correlation**
 
-![Correlation](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/dfa4a4f9-e4b8-450a-a681-3bcf4ed7fec7)
+![Correlation](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Correlation.png?raw=true)
 
 **Seaborn pairplot**
 
-![Seaborn Pairplot](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/7e54b06c-ba11-4c65-8d6f-8eecf02ba12f)
+![Seaborn Pairplot](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Seaborn%20Pairplot.png?raw=true)
 
 **Logistic Regression Model**
 
 **Accuracy_score: 0.97**
 
-![Predicted species using Logistic Regression](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/c16d38fd-f1d3-4d48-850f-b24f579200f3)
+![Predicted species using Logistic Regression](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Predicted%20species%20using%20Logistic%20Regression.png?raw=true)
 
 **Linear SVC Model**
 
 **Accuracy_score: 0.92**
 
-![Predicted species using Linear SVC](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/4d4c7239-40b7-4235-9c88-c2d448ee3439)
+![Predicted species using Linear SVC](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Predicted%20species%20using%20Linear%20SVC.png?raw=true)
 
 **Random Forest Classifier Model**
 
 **Accuracy_score: 0.97**
 
-![Predicted species using Random Forest Classifier](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/932ed70a-ba55-4f74-8803-f82e8a0a6446)
+![Predicted species using Random Forest Classifier](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Predicted%20species%20using%20Random%20Forest%20Classifier.png?raw=true)
 
 **Decision Tree Model**
 
 **Accuracy_score: 0.97**
 
-![Tree Plot](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/223fa61c-70ff-4d9a-a7d1-85e1f5b69f6e)
-![Predicted species using Decision Tree](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/ddaa64f3-ab92-4c17-bcf8-03500a164dfb)
+![Tree Plot](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Tree%20Plot.png?raw=true)
+![Predicted species using Decision Tree](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Predicted%20species%20using%20Decision%20Tree.png?raw=true)
 
 **Conclusion**
 **If Petal Length < 3 cm then the Species of the flower is Setosa.**
@@ -71,3 +71,9 @@
 **If Petal Length > 5 cm then most of the Species are Virginica.**
 
 **Predicted Datasets**
+
+![Iris Setosa Datasets](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Iris_setosa.csv)
+
+![Iris Versicolor Datasets](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Iris_versicolor.csv)
+
+![Iris virginica Datasets](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Iris_virginica.csv)
