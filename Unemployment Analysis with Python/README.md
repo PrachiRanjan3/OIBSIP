@@ -58,15 +58,15 @@ Estimated Labour Participation Rate (%): This represents the percentage of the w
 
 -> Estimated Unemployment Rate vs Month
 
-![barplot Estimated Unemployment Rate vs Month](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/54afa317-1859-4921-9982-6ebae15ac53c)
+![barplot Estimated Unemployment Rate vs Month](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Unemployment%20Analysis%20with%20Python/barplot%20Estimated%20Unemployment%20Rate%20vs%20Month.png)
 
 -> Estimated Employed vs Month
 
-![barplot Estimated Employed vs Month](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/5cd61921-545e-43c6-bd6c-b1f5918cd119)
+![barplot Estimated Employed vs Month](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Unemployment%20Analysis%20with%20Python/barplot%20Estimated%20Employed%20vs%20Month.png)
 
 -> Estimated Labour Participation Rate vs Month
 
-![barplot Estimated Labour Participation Rate vs Month](https://github.com/PrachiRanjan3/OIBSIP/assets/103803568/85f33822-0f81-446f-a49d-864b63396d87)
+![barplot Estimated Labour Participation Rate vs Month](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Unemployment%20Analysis%20with%20Python/barplot%20Estimated%20Labour%20Participation%20Rate%20vs%20Month.png)
 
 ### **Estimated Unemployment Rate (%)**
 
