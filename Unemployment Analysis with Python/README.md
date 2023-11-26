@@ -3,7 +3,9 @@
 ![Task 2](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Unemployment%20Analysis%20with%20Python/Task%202.png)
 
 Unemployment in India during the Covid-19 Lockdown:-
+
 -> Estimated Unemployment Rate(%) , Estimated Employed, Estimated Labor Participation(%)
+
 -> Impacted states due to lockdown
 
 ![Demo](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Unemployment%20Analysis%20with%20Python/Demo.png)
