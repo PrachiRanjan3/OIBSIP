@@ -98,6 +98,7 @@ The top 5 regions(states) in India having the highest unemployement rate (%) dur
 5. Himachal Pradesh = 18.54%
    
 Maximum unemployment rate is in month of May in 2019.
+
 Maximum unemployment rate is in month of April and May in 2020.
 
 ### **Estimated Employed**
@@ -130,6 +131,7 @@ The top 5 regions(states) in India having the highest employed count during COVI
 5. Tamil Nadu = 12.27 Million
    
 Maximum employment is in month of September and December in 2019.
+
 Maximum employment is in month of January and February in 2020.
 
 ### **Estimated Labour Participation Rate (%)**
