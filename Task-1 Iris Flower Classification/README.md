@@ -60,8 +60,8 @@
 
 **Accuracy_score: 0.97**
 
-![Tree Plot](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Iris%20Flower%20Classification/Tree%20Plot.png?raw=true)
-![Predicted species using Decision Tree](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-1%20Iris%20Flower%20Classification/Tree%20Plot.png)
+![Tree Plot](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-1%20Iris%20Flower%20Classification/Tree%20Plot.png)
+![Predicted species using Decision Tree](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-1%20Iris%20Flower%20Classification/Predicted%20species%20using%20Decision%20Tree.png)
 
 **Conclusion**
 **If Petal Length < 3 cm then the Species of the flower is Setosa.**
