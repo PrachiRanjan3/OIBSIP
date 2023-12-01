@@ -102,23 +102,23 @@
 # Training the data using Machine Learning Model
 
 ### Linear Regression
-### R2 score : 0.78
+### R2 score : 0.694602876378206
 
 ![Actual vs  Predicted Selling Prices using Linear Regression](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-3%20Car%20Price%20Prediction%20with%20Machine%20Learning/Actual%20vs.%20Predicted%20Selling%20Prices%20using%20Linear%20Regression.png)
 
 ### Random Forest Regression
-### R2 score : 0.98
+### R2 score : 0.941307254012621
 
 ![Actual vs Predicted Selling Prices using Random Forest Regression](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-3%20Car%20Price%20Prediction%20with%20Machine%20Learning/Actual%20vs%20Predicted%20Selling%20Prices%20using%20Random%20Forest%20Regression.png)
 
 ### XGBoost Regressor
-### R2 score : 0.99
+### R2 score : 0.9308394444909207
 
 ![Actual vs Predicted Selling Prices by XGBoost Regression](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-3%20Car%20Price%20Prediction%20with%20Machine%20Learning/Actual%20vs%20Predicted%20Selling%20Prices%20by%20XGBoost%20Regression.png)
 
 ### Important Features
 
-![Top 10 Features having impact on the selling price of the car using XGBoost Regression](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-3%20Car%20Price%20Prediction%20with%20Machine%20Learning/Top%2010%20Features%20having%20impact%20on%20the%20selling%20price%20of%20the%20car%20using%20XGBoost%20Regression.png)
+![Top 10 Features having impact on the selling price of the car by Random Forest Model](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-3%20Car%20Price%20Prediction%20with%20Machine%20Learning/Top%2010%20Features%20having%20impact%20on%20the%20selling%20price%20of%20the%20car%20by%20Random%20Forest%20Model.png)
 
 ## predicted dataset
 
