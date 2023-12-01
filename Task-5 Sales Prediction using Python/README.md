@@ -79,7 +79,9 @@
 
 
 **From the above plot we have: -**
+
 **Advertising Platform TV having an impact of 58% on Sales**
+
 **Advertising Platform Radio having an impact of 42% on Sales**
 
 
