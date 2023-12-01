@@ -4,11 +4,11 @@
 
 This Repository Consists of all the tasks that were assigned to me during internship at Oasis Infobyte as a Data Science Intern from November 10th 2023 to December 10th 2023.
 
-Task 1: Iris Dataset Classification
+Task 1: Iris Flower Classification
 
 ![Python Notebook Link1](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-1%20Iris%20Flower%20Classification/Irish%20Flower%20Classification.ipynb)
 
-Task 2: Unemployment(in India) Analysis using Python
+Task 2: Unemployment Analysis using Python
 
 ![Python Notebook Link2](https://github.com/PrachiRanjan3/OIBSIP/blob/main/Task-2%20Unemployment%20Analysis%20with%20Python/Unemployement%20Analysis%20with%20Python.ipynb)
 
